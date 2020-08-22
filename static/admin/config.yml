@@ -1,5 +1,5 @@
 backend:
-  name: gateway
+  name: github
   repo: DRAVIGON/ammuz-blog
   open_authoring: true
   branch: master
